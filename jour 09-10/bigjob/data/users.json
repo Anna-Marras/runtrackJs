@@ -1,0 +1,17 @@
+{
+    "users": [
+      {
+        "email": "user@laplateforme.io",
+        "role": "user"
+      },
+      {
+        "email": "moderator@laplateforme.io",
+        "role": "moderator"
+      },
+      {
+        "email": "admin@laplateforme.io",
+        "role": "admin"
+      }
+    ]
+  }
+  
